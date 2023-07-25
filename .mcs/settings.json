@@ -1,0 +1,18 @@
+{
+    "Arena.Component.Namespace": "zdljh",
+    "FirstTabSetting": 1,
+    "ShortItemSettings": [
+        "resource_pack_54qcvw4u\\ui",
+        "behavior_pack_2qxmDVtK\\Presets",
+        "behavior_pack_2qxmDVtK\\Parts",
+        "behavior_pack_2qxmDVtK\\BoxData",
+        "resource_pack_54qcvw4u\\effects",
+        "resource_pack_54qcvw4u\\models",
+        "resource_pack_54qcvw4u\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+        "ui1": true,
+        "uiCourse": true
+    },
+    "Uluru.checkSuspectOldUI": true
+}

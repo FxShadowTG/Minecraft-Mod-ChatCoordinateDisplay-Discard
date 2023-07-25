@@ -1,0 +1,35 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    },
+    "UI": {
+        "customPrefabGroupExpand": [
+
+        ],
+        "expandData": {
+            "prefab": {
+
+            },
+            "screen": {
+                "D:\\MCStudioDownload\\work\\zx1292492939@163.com\\Cpp\\AddOn\\7db38d868538433087d245fa2f30f632\\resource_pack_54qcvw4u\\ui\\ui1.json": [
+                    "/main"
+                ],
+                "D:\\MCStudioDownload\\work\\zx1292492939@163.com\\Cpp\\AddOn\\7db38d868538433087d245fa2f30f632\\resource_pack_54qcvw4u\\ui\\uiCourse.json": [
+                    "/main"
+                ]
+            }
+        }
+    }
+}
